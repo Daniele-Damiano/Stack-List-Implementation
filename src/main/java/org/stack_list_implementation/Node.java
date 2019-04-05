@@ -2,7 +2,7 @@ package org.stack_list_implementation;
 
 /**
  * Implementazione di una lista collegata (LinkedList)
- * @author linux-server
+ * @author Daniele Damiano
  *
  * @param <E> Una elemento di un tipo qualsiasi
  */
