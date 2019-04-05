@@ -1,6 +1,6 @@
 # Stack-List-Implementation
 
-Implementazione di uno Stack medinte una lista collegata (LinkedList).
+Implementazione di uno Stack mediante una lista collegata (LinkedList).
 
 Strumenti usati:
 
